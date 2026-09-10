@@ -1,0 +1,171 @@
+{
+  "title": "educationalb catalog",
+  "source_graphic": "Boundary Detection in Computer Vision — 6 techniques, 9 applications",
+  "topics": [
+    {
+      "id": "edge-detection",
+      "kind": "technique",
+      "repos": [
+        "https://github.com/opencv/opencv",
+        "https://github.com/xavysp/DexiNed",
+        "https://github.com/hellozhuo/pidinet",
+        "https://github.com/sniklaus/pytorch-hed",
+        "https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers"
+      ]
+    },
+    {
+      "id": "contour-detection",
+      "kind": "technique",
+      "repos": [
+        "https://github.com/opencv/opencv",
+        "https://github.com/wangyuxin87/ContourNet",
+        "https://github.com/CihanTopal/ED_Lib",
+        "https://github.com/backseason/PoolNet",
+        "https://github.com/Raj-08/tensorflow-object-contour-detection"
+      ]
+    },
+    {
+      "id": "semantic-boundary-detection",
+      "kind": "technique",
+      "repos": [
+        "https://github.com/Chrisding/seal",
+        "https://github.com/WHU-USI3DV/Mobile-Seed",
+        "https://github.com/open-mmlab/mmsegmentation",
+        "https://github.com/PaddlePaddle/PaddleSeg",
+        "https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers"
+      ]
+    },
+    {
+      "id": "instance-boundary-detection",
+      "kind": "technique",
+      "repos": [
+        "https://github.com/facebookresearch/detectron2",
+        "https://github.com/ultralytics/ultralytics",
+        "https://github.com/open-mmlab/mmdetection",
+        "https://github.com/matterport/Mask_RCNN",
+        "https://github.com/facebookresearch/Mask2Former"
+      ]
+    },
+    {
+      "id": "fine-grained-boundary-detection",
+      "kind": "technique",
+      "repos": [
+        "https://github.com/HRNet/HRNet-Semantic-Segmentation",
+        "https://github.com/NVlabs/SegFormer",
+        "https://github.com/yhlleo/DeepSegmentor",
+        "https://github.com/milesial/Pytorch-UNet",
+        "https://github.com/open-mmlab/mmsegmentation"
+      ]
+    },
+    {
+      "id": "context-aware-foundation-boundary-detection",
+      "kind": "technique",
+      "repos": [
+        "https://github.com/facebookresearch/segment-anything",
+        "https://github.com/facebookresearch/sam2",
+        "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+        "https://github.com/CASIA-LMC-Lab/FastSAM",
+        "https://github.com/facebookresearch/sam3"
+      ]
+    },
+    {
+      "id": "defect-inspection",
+      "kind": "application",
+      "repos": [
+        "https://github.com/open-edge-platform/anomalib",
+        "https://github.com/M-3LAB/awesome-industrial-anomaly-detection",
+        "https://github.com/amazon-science/patchcore-inspection",
+        "https://github.com/openvinotoolkit/anomalib",
+        "https://github.com/yhlleo/DeepSegmentor"
+      ]
+    },
+    {
+      "id": "lane-and-vehicle-understanding",
+      "kind": "application",
+      "repos": [
+        "https://github.com/MaybeShewill-CV/lanenet-lane-detection",
+        "https://github.com/hustvl/YOLOP",
+        "https://github.com/cfzd/Ultra-Fast-Lane-Detection",
+        "https://github.com/amusi/awesome-lane-detection",
+        "https://github.com/voldemortX/pytorch-auto-drive"
+      ]
+    },
+    {
+      "id": "product-separation",
+      "kind": "application",
+      "repos": [
+        "https://github.com/ultralytics/ultralytics",
+        "https://github.com/roboflow/supervision",
+        "https://github.com/facebookresearch/detectron2",
+        "https://github.com/wkentaro/labelme",
+        "https://github.com/CVHub520/X-AnyLabeling"
+      ]
+    },
+    {
+      "id": "lesion-delineation",
+      "kind": "application",
+      "repos": [
+        "https://github.com/MIC-DKFZ/nnUNet",
+        "https://github.com/Project-MONAI/MONAI",
+        "https://github.com/milesial/Pytorch-UNet",
+        "https://github.com/Beckschen/TransUNet",
+        "https://github.com/JunMa11/SegLossOdyssey"
+      ]
+    },
+    {
+      "id": "disease-region-detection",
+      "kind": "application",
+      "repos": [
+        "https://github.com/spMohanty/PlantVillage-Dataset",
+        "https://github.com/PaddlePaddle/PaddleSeg",
+        "https://github.com/open-mmlab/mmsegmentation",
+        "https://github.com/ultralytics/ultralytics",
+        "https://github.com/facebookresearch/sam2"
+      ]
+    },
+    {
+      "id": "crack-analysis",
+      "kind": "application",
+      "repos": [
+        "https://github.com/yhlleo/DeepSegmentor",
+        "https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection",
+        "https://github.com/dimitrisdais/crack_detection_CNN_masonry",
+        "https://github.com/arthurflor23/surface-crack-detection",
+        "https://github.com/konskyrt/Concrete-Crack-Detection-Segmentation"
+      ]
+    },
+    {
+      "id": "player-separation",
+      "kind": "application",
+      "repos": [
+        "https://github.com/ultralytics/ultralytics",
+        "https://github.com/ifzhang/ByteTrack",
+        "https://github.com/mikel-brostrom/boxmot",
+        "https://github.com/open-mmlab/mmtracking",
+        "https://github.com/SoccerNet"
+      ]
+    },
+    {
+      "id": "person-and-zone-understanding",
+      "kind": "application",
+      "repos": [
+        "https://github.com/roboflow/supervision",
+        "https://github.com/DeepLabCut/DeepLabCut",
+        "https://github.com/ultralytics/ultralytics",
+        "https://github.com/open-mmlab/mmpose",
+        "https://github.com/mikel-brostrom/boxmot"
+      ]
+    },
+    {
+      "id": "object-grasping",
+      "kind": "application",
+      "repos": [
+        "https://github.com/graspnet/graspnet-baseline",
+        "https://github.com/GeorgeDu/vision-based-robotic-grasping",
+        "https://github.com/andyzeng/visual-pushing-grasping",
+        "https://github.com/atenpas/gpd",
+        "https://github.com/skumra/robotic-grasping"
+      ]
+    }
+  ]
+}
